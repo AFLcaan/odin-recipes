@@ -1,0 +1,33 @@
+body {
+    background-color: lightblue;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 ,
+h3 ,
+h4 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.des {
+    font-size: 30px;
+}
+
+.ing {
+    font-size: 30px;
+}
+
+.step {
+    font-size: 30px;
+}
